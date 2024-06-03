@@ -1,1 +1,3 @@
-# Automated voiceover of NBA game 🏀 using OpenAI
+# Automated voiceover of sports using OpenAI
+## 🏀NBA
+## ⚽Football
